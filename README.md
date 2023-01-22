@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- [Network Security](https://github.com/CYB3Rsilent/NetworkSecurity/edit/main/README.md)
+- [Network Security](https://github.com/CYB3Rsilent/NetworkSecurity)
   - <b>Security Control Types</b>
   - <b>Intrusion Detection and Attack indicators</b>
   - <b>The Cyber Kill Chain</b>
