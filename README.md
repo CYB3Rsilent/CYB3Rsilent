@@ -2,8 +2,12 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Network Security</b>
-  - []
+- [Network Security](https://github.com/CYB3Rsilent/NetworkSecurity/edit/main/README.md)
+  - <b>Security Control Types</b>
+  - <b>Intrusion Detection and Attack indicators</b>
+  - <b>The Cyber Kill Chain</b>
+  - <b>"Drop Zone" Lab</b>
+  - <b>Firewall Architectures and Methodologies</b>
 - <b>Digital Forensics Project</b>
   - []
 - <b>Linux Admin & Harding</b>
