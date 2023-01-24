@@ -8,9 +8,10 @@
   - <b>The Cyber Kill Chain</b>
   - <b>"Drop Zone" Lab</b>
   - <b>Firewall Architectures and Methodologies</b>
-- <b>Digital Forensics Project</b>
-  - []
-- <b>Linux Admin & Harding</b>
+- [Digital Forensics Project](https://github.com/CYB3Rsilent/NetworkSecurity)
+  - <b>Creating a Digital Forensics and Malware Analysis Lab</b>
+  - 
+- [Linux Admin & Harding](https://github.com/CYB3Rsilent/NetworkSecurity)
   - []
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
